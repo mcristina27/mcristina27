@@ -38,7 +38,7 @@
 ### 🌷 ¿Conectamos?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mcristina27/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-cristina-ruelas-3a1629218/ " target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ruelas.cristina27@gmail.com">
